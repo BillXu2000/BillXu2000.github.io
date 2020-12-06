@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-01T17:28:48+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Rabbit Hole</title><subtitle>Quanling Spirit never perishes. Hanzhong Balls forever live.</subtitle><entry><title type="html">奋斗三星期，月末 AED</title><link href="http://localhost:4000/weekly/2020/11/30/weekly.html" rel="alternate" type="text/html" title="奋斗三星期，月末 AED" /><published>2020-11-30T00:00:00+08:00</published><updated>2020-11-30T00:00:00+08:00</updated><id>http://localhost:4000/weekly/2020/11/30/weekly</id><content type="html" xml:base="http://localhost:4000/weekly/2020/11/30/weekly.html">&lt;p&gt;周六参加第一次上台演出。
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-06T16:10:31+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Rabbit Hole</title><subtitle>Quanling Spirit never perishes. Hanzhong Balls forever live.</subtitle><entry><title type="html">大胆 tar，小心 rm</title><link href="http://localhost:4000/weekly/2020/12/06/rm.html" rel="alternate" type="text/html" title="大胆 tar，小心 rm" /><published>2020-12-06T00:00:00+08:00</published><updated>2020-12-06T00:00:00+08:00</updated><id>http://localhost:4000/weekly/2020/12/06/rm</id><content type="html" xml:base="http://localhost:4000/weekly/2020/12/06/rm.html">&lt;p&gt;周五我炸了我的工作环境。&lt;/p&gt;
+
+&lt;p&gt;事情是这样的：我之前一直在 wsl1 里面用 bash 工作。
+这周听说要在 linux 下搭网络环境，于是打算升级成 wsl2，也是想看看 wsl2 对 taichi 的支持怎么样。
+本来想用工具把 wsl1 文件全部转移到 wsl2 下，但是实在太慢又吃资源，一气之下就手动炸掉了 wsl1，炸完才想起配置文件和密钥还没备份。&lt;/p&gt;
+
+&lt;p&gt;今天写周记的时候又想起来这件事，开始很好奇删除根目录到底能不能成功，就拿了个 wsl 里面没用的新系统开始删。
+sudo 输个密码还要一两秒，这 rm 倒是一点也不拖沓，一秒不到，直接从 bin 删到了 mnt，开始提示我 windows 下文件的删除权限不够云云。
+不对啊，你个 wsl，怎么还能删我 windows 文件的，我大意了！
+赶紧按个 ctrl-c，终究还是给蹭掉了一些文件。
+所幸删掉的文件基本都有备份，作业没白写。&lt;/p&gt;
+
+&lt;p&gt;三天干活，两天删库。
+刺激，刺激。&lt;/p&gt;
+
+&lt;p&gt;下周见，希望那时还能剩下个 vim。&lt;/p&gt;</content><author><name></name></author><category term="weekly" /><summary type="html">周五我炸了我的工作环境。</summary></entry><entry><title type="html">奋斗三星期，月末 AED</title><link href="http://localhost:4000/weekly/2020/11/29/weekly.html" rel="alternate" type="text/html" title="奋斗三星期，月末 AED" /><published>2020-11-29T00:00:00+08:00</published><updated>2020-11-29T00:00:00+08:00</updated><id>http://localhost:4000/weekly/2020/11/29/weekly</id><content type="html" xml:base="http://localhost:4000/weekly/2020/11/29/weekly.html">&lt;p&gt;周六参加第一次上台演出。
 下午走台的时候把 oboe 摔着了，非常心痛。
 晚上吹的感觉一般般，还是练得不熟，没啥感觉。&lt;/p&gt;
 

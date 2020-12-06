@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "奋斗三星期，月末 AED"
-date:   2020-11-30 00:00:00 +0800
+date:   2020-11-29 00:00:00 +0800
 categories: weekly
 ---
 
