@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-06T16:10:31+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Rabbit Hole</title><subtitle>Quanling Spirit never perishes. Hanzhong Balls forever live.</subtitle><entry><title type="html">大胆 tar，小心 rm</title><link href="http://localhost:4000/weekly/2020/12/06/rm.html" rel="alternate" type="text/html" title="大胆 tar，小心 rm" /><published>2020-12-06T00:00:00+08:00</published><updated>2020-12-06T00:00:00+08:00</updated><id>http://localhost:4000/weekly/2020/12/06/rm</id><content type="html" xml:base="http://localhost:4000/weekly/2020/12/06/rm.html">&lt;p&gt;周五我炸了我的工作环境。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-14T09:27:24+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Rabbit Hole</title><subtitle>Quanling Spirit never perishes. Hanzhong Balls forever live.</subtitle><entry><title type="html">沈没</title><link href="http://localhost:4000/weekly/2020/12/13/sink.html" rel="alternate" type="text/html" title="沈没" /><published>2020-12-13T00:00:00+08:00</published><updated>2020-12-13T00:00:00+08:00</updated><id>http://localhost:4000/weekly/2020/12/13/sink</id><content type="html" xml:base="http://localhost:4000/weekly/2020/12/13/sink.html">&lt;p&gt;周五去看了新年音乐会。
+整体感觉挺不错，特别是 oboe 很出彩，oboe 真好啊。
+返场曲目的选择看上去一年比一年危险，越来越红了。
+听队友说“因为今年的返场风格上并不红所以没事”，说不定是这么回事。&lt;/p&gt;
+
+&lt;p&gt;周六是今年最后一次合排，练了三首新曲目。
+一首是《普罗旺斯》，有两小节的 oboe solo，真好，可惜别的地方都吹不对。
+一首是《狮子王》，节奏有点找不到，音响上好像也没 oboe 什么事（大概吧）。
+一首是《泰坦尼克》，木管是主角，oboe 也有一段很不错的 solo，可惜降号数不清。
+总结起来就是两周没练啥都不会，音色爆炸，要啥没啥。&lt;/p&gt;
+
+&lt;p&gt;下周见，泉岭的大球小球在等着我！（&lt;/p&gt;</content><author><name></name></author><category term="weekly" /><summary type="html">周五去看了新年音乐会。 整体感觉挺不错，特别是 oboe 很出彩，oboe 真好啊。 返场曲目的选择看上去一年比一年危险，越来越红了。 听队友说“因为今年的返场风格上并不红所以没事”，说不定是这么回事。</summary></entry><entry><title type="html">大胆 tar，小心 rm</title><link href="http://localhost:4000/weekly/2020/12/06/rm.html" rel="alternate" type="text/html" title="大胆 tar，小心 rm" /><published>2020-12-06T00:00:00+08:00</published><updated>2020-12-06T00:00:00+08:00</updated><id>http://localhost:4000/weekly/2020/12/06/rm</id><content type="html" xml:base="http://localhost:4000/weekly/2020/12/06/rm.html">&lt;p&gt;周五我炸了我的工作环境。&lt;/p&gt;
 
 &lt;p&gt;事情是这样的：我之前一直在 wsl1 里面用 bash 工作。
 这周听说要在 linux 下搭网络环境，于是打算升级成 wsl2，也是想看看 wsl2 对 taichi 的支持怎么样。
