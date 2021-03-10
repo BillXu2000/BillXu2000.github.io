@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-02-02T12:10:04+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Rabbit Hole</title><subtitle>Quanling Spirit never perishes. Hanzhong Balls forever live.</subtitle><entry><title type="html">VR 作业呢？</title><link href="http://localhost:4000/weekly/2021/01/31/vr.html" rel="alternate" type="text/html" title="VR 作业呢？" /><published>2021-01-31T00:00:00+08:00</published><updated>2021-01-31T00:00:00+08:00</updated><id>http://localhost:4000/weekly/2021/01/31/vr</id><content type="html" xml:base="http://localhost:4000/weekly/2021/01/31/vr.html">&lt;p&gt;没做。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-03-10T09:54:57+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Rabbit Hole</title><subtitle>Quanling Spirit never perishes. Hanzhong Balls forever live.</subtitle><entry><title type="html">关于寒假与断更</title><link href="http://localhost:4000/weekly/2021/03/07/back.html" rel="alternate" type="text/html" title="关于寒假与断更" /><published>2021-03-07T00:00:00+08:00</published><updated>2021-03-07T00:00:00+08:00</updated><id>http://localhost:4000/weekly/2021/03/07/back</id><content type="html" xml:base="http://localhost:4000/weekly/2021/03/07/back.html">&lt;p&gt;寒假过着真是快，打打游戏吃吃饭就结束了。
+这里的“快”是我当下的主观感受，因为我基本记不得寒假吃了啥以及玩了啥，总觉得寒假什么都没做就过去了。
+寒假期间我反倒觉得寒假非常漫长，当时整天无所事事，也没找到能打发数周时间的游戏。（不出所料，寒假一结束就找到了）
+二月也没什么心情记自己无所事事的生活，blog 也就断更了。&lt;/p&gt;
+
+&lt;p&gt;春季学期不会这么闲，博客也有东西记，打算继续周更。
+下周见。&lt;/p&gt;</content><author><name></name></author><category term="weekly" /><summary type="html">寒假过着真是快，打打游戏吃吃饭就结束了。 这里的“快”是我当下的主观感受，因为我基本记不得寒假吃了啥以及玩了啥，总觉得寒假什么都没做就过去了。 寒假期间我反倒觉得寒假非常漫长，当时整天无所事事，也没找到能打发数周时间的游戏。（不出所料，寒假一结束就找到了） 二月也没什么心情记自己无所事事的生活，blog 也就断更了。</summary></entry><entry><title type="html">VR 作业呢？</title><link href="http://localhost:4000/weekly/2021/01/31/vr.html" rel="alternate" type="text/html" title="VR 作业呢？" /><published>2021-01-31T00:00:00+08:00</published><updated>2021-01-31T00:00:00+08:00</updated><id>http://localhost:4000/weekly/2021/01/31/vr</id><content type="html" xml:base="http://localhost:4000/weekly/2021/01/31/vr.html">&lt;p&gt;没做。&lt;/p&gt;
 
 &lt;p&gt;在宿舍宅了一周，每天大概有一小时在出门吃饭，其他时间都在自己房间。
 一个人住一个房间确实很自在，不过这周就没出门做过什么事，有些无聊。&lt;/p&gt;
@@ -127,14 +133,4 @@ sudo 输个密码还要一两秒，这 rm 倒是一点也不拖沓，一秒不�
 &lt;p&gt;三天干活，两天删库。
 刺激，刺激。&lt;/p&gt;
 
-&lt;p&gt;下周见，希望那时还能剩下个 vim。&lt;/p&gt;</content><author><name></name></author><category term="weekly" /><summary type="html">周五我炸了我的工作环境。</summary></entry><entry><title type="html">奋斗三星期，月末 AED</title><link href="http://localhost:4000/weekly/2020/11/29/weekly.html" rel="alternate" type="text/html" title="奋斗三星期，月末 AED" /><published>2020-11-29T00:00:00+08:00</published><updated>2020-11-29T00:00:00+08:00</updated><id>http://localhost:4000/weekly/2020/11/29/weekly</id><content type="html" xml:base="http://localhost:4000/weekly/2020/11/29/weekly.html">&lt;p&gt;周六参加第一次上台演出。
-下午走台的时候把 oboe 摔着了，非常心痛。
-晚上吹的感觉一般般，还是练得不熟，没啥感觉。&lt;/p&gt;
-
-&lt;p&gt;周一总算是去造机检查了。
-工作基本是 lxy 做的，她的工作时间占了整组工作时间的百分之九十。
-花了这么多时间，她也做出了相当的成果，一个人写出一个 ucore （其实还有点小 bug），工作量相当大。
-在检查时才得知，她调 ucore 用的是网页端，输入 forktest 指令要逐字节输入，操作九次串口，单凭这点就让人很佩服毅力了。
-不管怎样，以后还是要多沟通，这次让她熬了好几夜，我心里不大过意的去。&lt;/p&gt;
-
-&lt;p&gt;下周见。&lt;/p&gt;</content><author><name></name></author><category term="weekly" /><summary type="html">周六参加第一次上台演出。 下午走台的时候把 oboe 摔着了，非常心痛。 晚上吹的感觉一般般，还是练得不熟，没啥感觉。</summary></entry></feed>
+&lt;p&gt;下周见，希望那时还能剩下个 vim。&lt;/p&gt;</content><author><name></name></author><category term="weekly" /><summary type="html">周五我炸了我的工作环境。</summary></entry></feed>
